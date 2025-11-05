@@ -1,10 +1,3 @@
-Perfect 👍 — here’s your **README.md** content and **Template Gallery metadata** (like what appears in the GTM Template Gallery page).
-This is professional, concise, and explains your variable template’s purpose clearly for other developers and marketers 👇
-
----
-
-### **README.md**
-
 # 🧩 Customer Lifetime Value (CLV) Lookup – Server-Side GTM Variable
 
 **Author:** [Alif Mahmud](https://alifmahmud.com)
