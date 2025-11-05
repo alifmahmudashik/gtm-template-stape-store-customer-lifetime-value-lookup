@@ -1,13 +1,5 @@
 # 🧩 Customer Lifetime Value (CLV) Lookup – Server-Side GTM Variable
 
-**Author:** [Alif Mahmud](https://alifmahmud.com)
-**Version:** 1.0.0
-**Category:** Variable Template
-**Compatible with:** Server-Side Google Tag Manager (sGTM)
-**Initial Publish:** November 2025
-
----
-
 ## 📘 Overview
 
 The **Customer Lifetime Value (CLV) Lookup** variable helps you retrieve and calculate total purchase value and customer status (new or returning) directly from your **Stape Store** within **Server-Side Google Tag Manager**.
