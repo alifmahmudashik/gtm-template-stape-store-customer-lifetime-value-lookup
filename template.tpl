@@ -15,6 +15,7 @@ ___INFO___
   "securityGroups": [],
   "displayName": "Stape Store - Customer Lifetime Value Lookup",
   "description": "Fetches user purchase history from Stape Store to calculate total customer lifetime value and identify established vs new customers based on past transactions.",
+  "categories": ["CONVERSIONS", "ADVERTISING", "ANALYTICS"],
   "containerContexts": [
     "SERVER"
   ]
