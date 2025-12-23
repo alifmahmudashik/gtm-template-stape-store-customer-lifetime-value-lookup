@@ -1,4 +1,5 @@
 homepage: "https://alifmahmud.com"
+documentation: "https://youtu.be/T2ixGgZ6btM"
 versions:
-  - sha: b4b97ddadb575b01147257f3b7a151d3559a2640
-    changeNotes: Initial Publish.
+  - sha: d16fa022c71f566440e262943ac96860647c2aa2
+    changeNotes: Initial release.
